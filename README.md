@@ -1,4 +1,4 @@
-This project is a Sudoku solver implemented in Python. It provides a command-line interface (CLI) for solving Sudoku puzzles.
+This project is a Sudoku solver implemented in c++. It provides a command-line interface (CLI) for solving Sudoku puzzles.
 
 Features
 Solve Sudoku puzzles of various difficulty levels
